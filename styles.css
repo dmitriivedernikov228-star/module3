@@ -8,4 +8,9 @@ h1 {
 
 .row {
   margin-bottom: 30px;
+  min-height: 500px;
+}
+
+#chicken, #beef, #sushi {
+  scroll-margin-top: 70px;
 }
